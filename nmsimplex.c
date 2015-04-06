@@ -1,3 +1,9 @@
+/* 
+ * File:   nmsimplex.h
+ * Author: Eng. Juan Camilo Gómez Cadavid MSc.
+ *
+ * Created on 31 de diciembre de 2011, 08:52 AM
+ */
 /*
  * algorithm presented in Margaret H. Wright's paper on Direct Search Methods.
  */
